@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Resha, an undergraduate student of Electrical Engineering spent a lot of time for developing robotics system especially mobile robot. Most of work focused on robot navigation, computer vision, machine learning and robot communication. Please kindly visit my website [here](https://reshalfahsi.github.io/).
+I'm Resha, a bachelor of Electrical Engineering spent a lot of time for developing robotics system especially mobile robot. Most of work focused on robot navigation, computer vision, machine learning and robot communication. Please kindly visit my website [here](https://reshalfahsi.github.io/).
 
 <!--
 **reshalfahsi/reshalfahsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
