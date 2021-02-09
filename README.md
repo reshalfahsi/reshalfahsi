@@ -2,6 +2,8 @@
 
 I'm Resha, a bachelor of Electrical Engineering spent a lot of time developing robotics systems especially mobile robots. Most of the work focused on robot navigation, computer vision, machine learning, and robot communication.  Please kindly visit my website [here](https://reshalfahsi.github.io/).
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reshalfahsi&theme=tokyonight&show_icons=true&count_private=true&r=1"></p>
+
 <!--
 **reshalfahsi/reshalfahsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
