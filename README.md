@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center"> 🎊 Welcome to Resha Al-Fahsi's Github Profile! 🎊 </h1>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=reshalfahsi alt=reshalfahsi/> </p>
 
 I'm Resha, a bachelor of Electrical Engineering spent a lot of time developing robotics systems especially mobile robots. Most of the work focused on robot navigation, computer vision, machine learning, and robot communication.  Please kindly visit my website [here](https://reshalfahsi.github.io/).
