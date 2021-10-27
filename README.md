@@ -1,9 +1,12 @@
 <h1 align="center"> 🎊 Welcome to Resha Al-Fahsi's Github Profile! 🎊 </h1>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=reshalfahsi alt=reshalfahsi/> </p>
 
-I'm Resha, a bachelor of Electrical Engineering spent a lot of time developing robotics systems especially mobile robots. Most of the work focused on robot navigation, computer vision, machine learning, and robot communication.  Please kindly visit my website [here](https://reshalfahsi.github.io/).
+I'm Resha, a Computer Vision, Machine Learning, and meme enthusiast. Interested in implementing AI in biomedical engineering and life science. Please kindly visit my website [here](https://reshalfahsi.github.io/).
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reshalfahsi&theme=tokyonight&show_icons=true&count_private=true&r=1"></p>
+
+Here is a cool meme with Deep Learning:
+<p align="center"> <a href="https://youtu.be/KOwyGpN_JLU"><img src="https://img.youtube.com/vi/KOwyGpN_JLU/hqdefault.jpg" alt="Deep Learning Meme" > </a> </p>
 
 <!--
 **reshalfahsi/reshalfahsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
