@@ -1,7 +1,11 @@
 <h1 align="center"> 🎊 Welcome to Resha Al-Fahsi's Github Profile! 🎊 </h1>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=reshalfahsi alt=reshalfahsi/> </p>
 
-I'm Resha, a Computer Vision, Machine Learning, and meme enthusiast. Interested in implementing AI in biomedical engineering and life science. Please kindly visit my website [here](https://reshalfahsi.github.io/).
+I'm Resha, a Computer Vision :framed_picture:, Machine Learning :brain:, and meme :clap: enthusiast.
+
+Interested in implementing AI in biomedical engineering :pill:  and life science :dna:.
+
+Please kindly visit my website [here](https://reshalfahsi.github.io/).
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reshalfahsi&theme=tokyonight&show_icons=true&count_private=true&r=1"></p>
 
