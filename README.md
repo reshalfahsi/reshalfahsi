@@ -3,6 +3,8 @@
 
 I'm Resha, a Computer Vision :framed_picture:, Machine Learning :brain:, and meme :clap: enthusiast.
 
+I have done several AI :gear: and Robotics :robot: related projects.
+
 Interested in implementing AI in biomedical engineering :pill:  and life science :dna:.
 
 Please kindly visit my website [here](https://reshalfahsi.github.io/).
