@@ -11,11 +11,11 @@ Please kindly visit my website [here](https://reshalfahsi.github.io/).
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reshalfahsi&theme=tokyonight&show_icons=true&count_private=true&r=1"></p>
 
-Here is a cool meme with Deep Learning:
-<p align="center"> <a href="https://youtu.be/KOwyGpN_JLU"><img src="https://img.youtube.com/vi/KOwyGpN_JLU/hqdefault.jpg" alt="Deep Learning Meme" > </a> </p>
-
 <!--
 **reshalfahsi/reshalfahsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here is a cool meme with Deep Learning:
+<p align="center"> <a href="https://youtu.be/KOwyGpN_JLU"><img src="https://img.youtube.com/vi/KOwyGpN_JLU/hqdefault.jpg" alt="Deep Learning Meme" > </a> </p>
 
 Here are some ideas to get you started:
 
