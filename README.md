@@ -1,30 +1,5 @@
-<h1 align="center"> 🎊 Welcome to Resha Al-Fahsi's Github Profile! 🎊 </h1>
-<p align="center"> <img src=https://komarev.com/ghpvc/?username=reshalfahsi alt=reshalfahsi/> </p>
-
-I'm Resha, a Computer Vision :framed_picture:, Machine Learning :gear:, and meme :clap: enthusiast.
-
-I have done several AI :brain: and Robotics :robot: related projects.
-
-Interested in implementing AI in biomedical engineering :pill:  and life science :dna:.
+I am a research engineer with extensive experience in artificial intelligence and robotics, specializing in computer vision and machine learning. My work includes publishing peer-reviewed research on face recognition, object detection, and biomedical image segmentation, as well as contributing to the development of efficient AI models for both cloud-based systems and edge devices. In addition to my core expertise, I maintain a strong interest in natural language processing and life sciences.
 
 Please kindly visit my website [here](https://reshalfahsi.github.io/).
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=reshalfahsi&theme=tokyonight&show_icons=true&count_private=true&r=1"></p>
-
-<!--
-**reshalfahsi/reshalfahsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here is a cool meme with Deep Learning:
-<p align="center"> <a href="https://youtu.be/KOwyGpN_JLU"><img src="https://img.youtube.com/vi/KOwyGpN_JLU/hqdefault.jpg" alt="Deep Learning Meme" > </a> </p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
